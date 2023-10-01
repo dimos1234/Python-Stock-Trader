@@ -1,6 +1,8 @@
 # Python-Stock-Trader
 An attempt to create a stock trading bot that uses the TD Ameritrade API and basic trading indicators.
 
+# NOTE: To run on your device, the code will need HEAVY adjustements. Nonetheless, the code is shared here.
+
 If you want to use this, create a seperate file in the main branch and name it "configs"
 Make a python file that uses the following code and add in your TD Ameritrade account number and ID. You need an access token in TS_STATE.JSON for this to work as well as a TD Ameritrade account, therefore it is not very practical.
 
